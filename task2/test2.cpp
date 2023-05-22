@@ -1,6 +1,6 @@
 #include <UnitTest++/UnitTest++.h>
-#include "/media/Общедоступные/Для ТИМПА 3/Task_2/modAlphaCipher.h"
-#include "/media/Общедоступные/Для ТИМПА 3/Task_2/modAlphaCipher.cpp"
+#include "/home/stud/for_MISP3/task1/modAlphaCipher.h"
+#include "/home/stud/for_MISP3/task1/modAlphaCipher.cpp"
 SUITE(KeyTest)
 {
     TEST(ValidKey) {
